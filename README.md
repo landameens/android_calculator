@@ -1,2 +1,5 @@
 A calculator with the basic functions.
-![img.png](img.png){width=250px}![img_1.png](img_1.png){width=250px}
+<div style="display:flex;">
+<img alt="App image" src="img.png" width="40%">
+<img alt="App image" src="img_1.png" width="40%">
+</div>
